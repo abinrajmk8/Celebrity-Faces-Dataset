@@ -1,4 +1,5 @@
 # Celebrity-Faces-Dataset
 
 
-# upload  imagess of each celebrity in  seperate folder or upload the image as celebrityname.jpg
+### upload the images of celebrity as name.jpg in Samples folder
+
